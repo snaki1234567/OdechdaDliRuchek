@@ -1,0 +1,17 @@
+C:\Users\Stud305\source\repos\OdechdaDliRuchek\OdechdaDliRuchek\obj\Debug\OdechdaDliRuchek.Form1.resources
+C:\Users\Stud305\source\repos\OdechdaDliRuchek\OdechdaDliRuchek\obj\Debug\OdechdaDliRuchek.Properties.Resources.resources
+C:\Users\Stud305\source\repos\OdechdaDliRuchek\OdechdaDliRuchek\obj\Debug\OdechdaDliRuchek.csproj.GenerateResource.cache
+C:\Users\Stud305\source\repos\OdechdaDliRuchek\OdechdaDliRuchek\bin\Debug\Database1.mdf
+C:\Users\Stud305\source\repos\OdechdaDliRuchek\OdechdaDliRuchek\bin\Debug\Database1_log.ldf
+C:\Users\Stud305\source\repos\OdechdaDliRuchek\OdechdaDliRuchek\bin\Debug\OdechdaDliRuchek.exe.config
+C:\Users\Stud305\source\repos\OdechdaDliRuchek\OdechdaDliRuchek\bin\Debug\OdechdaDliRuchek.exe
+C:\Users\Stud305\source\repos\OdechdaDliRuchek\OdechdaDliRuchek\bin\Debug\OdechdaDliRuchek.pdb
+C:\Users\Stud305\source\repos\OdechdaDliRuchek\OdechdaDliRuchek\bin\Debug\EntityFramework.dll
+C:\Users\Stud305\source\repos\OdechdaDliRuchek\OdechdaDliRuchek\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stud305\source\repos\OdechdaDliRuchek\OdechdaDliRuchek\bin\Debug\EntityFramework.xml
+C:\Users\Stud305\source\repos\OdechdaDliRuchek\OdechdaDliRuchek\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stud305\source\repos\OdechdaDliRuchek\OdechdaDliRuchek\obj\Debug\OdechdaDliRuchek.csproj.CopyComplete
+C:\Users\Stud305\source\repos\OdechdaDliRuchek\OdechdaDliRuchek\obj\Debug\OdechdaDliRuchek.exe
+C:\Users\Stud305\source\repos\OdechdaDliRuchek\OdechdaDliRuchek\obj\Debug\OdechdaDliRuchek.pdb
+C:\Users\Stud305\source\repos\OdechdaDliRuchek\OdechdaDliRuchek\obj\Debug\OdechdaDliRuchek.csprojAssemblyReference.cache
+C:\Users\Stud305\source\repos\OdechdaDliRuchek\OdechdaDliRuchek\obj\Debug\OdechdaDliRuchek.Form2.resources
